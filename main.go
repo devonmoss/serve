@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"os/exec"
 	"os/signal"
-	"github.com/hisPeople/serve/fileserver"
+	"github.com/devonmoss/serve/fileserver"
 	"strings"
 )
 
