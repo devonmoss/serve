@@ -7,12 +7,15 @@ It also generates a url to your machine [http://your.ip:port] and copies it your
 
 - Linux requires `xclip` or `xsel` to be installed 
 
+### Installation
+```
+go get -u github.com/devonmoss/serve
+go install github.com/devonmoss/serve
+```
+
 ### Usage
 
 ```
-$ go get -u github.com/hisPeople/serve
-$ go install github.com/hisPeople/serve
-
 $ serve --help
 
 $ serve
